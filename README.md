@@ -1,2 +1,2 @@
 # Instance-Video-Search
-Instance Search (INS) Task at TRECVID
+This is a repository for the Instance Search (INS) Task at TRECVID
